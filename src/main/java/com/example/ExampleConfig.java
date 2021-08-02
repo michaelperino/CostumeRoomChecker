@@ -3,17 +3,18 @@ package com.example;
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
+import java.awt.Color;
 
 @ConfigGroup("example")
 public interface ExampleConfig extends Config
 {
 	@ConfigItem(
-		keyName = "greeting",
-		name = "Welcome Greeting",
-		description = "The message to show to the user when they login"
+		keyName = "storeableColor",
+		name = "Storable Color",
+		description = "The color to highlight items that can be stored in a house"
 	)
-	default String greeting()
+	default Color getHouseColor()
 	{
-		return "Hello";
+		return Color.PINK;
 	}
 }
