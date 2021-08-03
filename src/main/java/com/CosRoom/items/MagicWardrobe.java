@@ -1,4 +1,4 @@
-package com.example.items;
+package com.CosRoom.items;
 
 import net.runelite.api.ItemID;
 

@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Costume Room Highlighter
+Highlights items within your bank that can be moved to your Player Owned House to save bank space. You can enable or disable certain storage locations depending on what you want highlighted.
