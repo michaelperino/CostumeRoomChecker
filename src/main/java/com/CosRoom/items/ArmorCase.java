@@ -132,6 +132,9 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.LUMBERJACK_LEGS);
         this.ArmorCaseHash.add(ItemID.LUMBERJACK_BOOTS);
         this.ArmorCaseHash.add(ItemID.GAS_MASK);
+        this.ArmorCaseHash.add(ItemID.MINING_GLOVES);
+        this.ArmorCaseHash.add(ItemID.SUPERIOR_MINING_GLOVES);
+        this.ArmorCaseHash.add(ItemID.EXPERT_MINING_GLOVES);
         this.ArmorCaseHash.add(ItemID.MOURNER_TOP);
         this.ArmorCaseHash.add(ItemID.MOURNER_TROUSERS);
         this.ArmorCaseHash.add(ItemID.MOURNER_GLOVES);
