@@ -5,7 +5,7 @@ import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 import java.awt.Color;
 
-@ConfigGroup("example")
+@ConfigGroup("costumeroomchecker")
 public interface CosRoomConfig extends Config
 {
 	@ConfigItem(
