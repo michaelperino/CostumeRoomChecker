@@ -165,16 +165,16 @@ public class ToyBox {
         this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_STAFF);
         this.ToyBoxHash.add(ItemID.FLOWER_CROWN);
         this.ToyBoxHash.add(ItemID.SKIS);
-        //TODO: SANTA%27S_LIST
-        //TODO: SNOW_GOGGLES_%26_HAT
+        this.ToyBoxHash.add(ItemID.SANTAS_LIST);
+        this.ToyBoxHash.add(ItemID.SNOW_GOGGLES__HAT);
         this.ToyBoxHash.add(ItemID.TREAT_CAULDRON);
         this.ToyBoxHash.add(ItemID.WITCH_HAT);
         this.ToyBoxHash.add(ItemID.WITCH_TOP);
         this.ToyBoxHash.add(ItemID.WITCH_ROBES);
         this.ToyBoxHash.add(ItemID.WITCH_BOOTS);
         this.ToyBoxHash.add(ItemID.WITCH_CAPE);
-        //TODO: 10TH_BIRTHDAY_CAPE
-        //TODO: 10TH_BIRTHDAY_BALLOONS
+        this.ToyBoxHash.add(ItemID._10TH_BIRTHDAY_CAPE);
+        this.ToyBoxHash.add(ItemID._10TH_BIRTHDAY_BALLOONS);
         this.ToyBoxHash.add(ItemID.CAKE_HAT);
         this.ToyBoxHash.add(ItemID.OLDSCHOOL_JUMPER);
         this.ToyBoxHash.add(ItemID.GNOME_CHILD_PLUSH);
