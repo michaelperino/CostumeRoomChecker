@@ -72,6 +72,7 @@ public class ToyBox {
         this.ToyBoxHash.add(ItemID.GRAVEDIGGER_LEGGINGS);
         this.ToyBoxHash.add(ItemID.GRAVEDIGGER_GLOVES);
         this.ToyBoxHash.add(ItemID.GRAVEDIGGER_BOOTS);
+        this.ToyBoxHash.add(ItemID.GRAVEDIGGER_TOP);
         this.ToyBoxHash.add(ItemID.CABBAGE_CAPE);
         this.ToyBoxHash.add(ItemID.CRUCIFEROUS_CODEX);
         this.ToyBoxHash.add(ItemID.GIANT_PRESENT);
@@ -95,6 +96,7 @@ public class ToyBox {
         this.ToyBoxHash.add(ItemID.SNOW_IMP_COSTUME_LEGS);
         this.ToyBoxHash.add(ItemID.SNOW_IMP_COSTUME_GLOVES);
         this.ToyBoxHash.add(ItemID.SNOW_IMP_COSTUME_FEET);
+        this.ToyBoxHash.add(ItemID.SNOW_IMP_COSTUME_TAIL);
         this.ToyBoxHash.add(ItemID.WISE_OLD_MANS_SANTA_HAT);
         this.ToyBoxHash.add(ItemID.PROP_SWORD);
         this.ToyBoxHash.add(ItemID.STARFACE);
@@ -143,13 +145,65 @@ public class ToyBox {
         this.ToyBoxHash.add(ItemID._20TH_ANNIVERSARY_GLOVES);
         this.ToyBoxHash.add(ItemID._20TH_ANNIVERSARY_TOP);
         this.ToyBoxHash.add(ItemID.BANANA_CAPE);
-        this.ToyBoxHash.add(25840); //banana hat
+        this.ToyBoxHash.add(ItemID.BANANA_HAT); //banana hat
         this.ToyBoxHash.add(ItemID.CURSED_BANANA);
         this.ToyBoxHash.add(ItemID.GNOME_CHILD_MASK);
         this.ToyBoxHash.add(ItemID.GNOME_CHILD_ICON);
         this.ToyBoxHash.add(ItemID.GREGGS_EASTDOOR);
         this.ToyBoxHash.add(ItemID.PROPELLER_HAT);
         this.ToyBoxHash.add(ItemID.WAR_SHIP);
+        this.ToyBoxHash.add(ItemID.SACK_OF_COAL);
+        this.ToyBoxHash.add(ItemID.CRATE_RING);
+        this.ToyBoxHash.add(ItemID.EASTER_HAT);
+        this.ToyBoxHash.add(ItemID.FESTIVE_GAMES_CROWN);
+        this.ToyBoxHash.add(ItemID.CHRISTMAS_JUMPER);
+        this.ToyBoxHash.add(ItemID.HALLOWEEN_WIG);
+        this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_HAT);
+        this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_TOP);
+        this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_TROUSERS);
+        this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_BOOTS);
+        this.ToyBoxHash.add(ItemID.FESTIVE_NUTCRACKER_STAFF);
+        this.ToyBoxHash.add(ItemID.FLOWER_CROWN);
+        this.ToyBoxHash.add(ItemID.SKIS);
+        //TODO: SANTA%27S_LIST
+        //TODO: SNOW_GOGGLES_%26_HAT
+        this.ToyBoxHash.add(ItemID.TREAT_CAULDRON);
+        this.ToyBoxHash.add(ItemID.WITCH_HAT);
+        this.ToyBoxHash.add(ItemID.WITCH_TOP);
+        this.ToyBoxHash.add(ItemID.WITCH_ROBES);
+        this.ToyBoxHash.add(ItemID.WITCH_BOOTS);
+        this.ToyBoxHash.add(ItemID.WITCH_CAPE);
+        //TODO: 10TH_BIRTHDAY_CAPE
+        //TODO: 10TH_BIRTHDAY_BALLOONS
+        this.ToyBoxHash.add(ItemID.CAKE_HAT);
+        this.ToyBoxHash.add(ItemID.OLDSCHOOL_JUMPER);
+        this.ToyBoxHash.add(ItemID.GNOME_CHILD_PLUSH);
+        this.ToyBoxHash.add(ItemID.STRAY_DOG_PLUSH);
+        this.ToyBoxHash.add(ItemID.JAD_PLUSH);
+        this.ToyBoxHash.add(ItemID.BOB_THE_CAT_SLIPPERS);
+        this.ToyBoxHash.add(ItemID.JAD_SLIPPERS);
+        this.ToyBoxHash.add(ItemID.DRAGON_CANDLE_DAGGER);
+        this.ToyBoxHash.add(ItemID.GNOME_CHILD_BACKPACK);
+        this.ToyBoxHash.add(ItemID.MYSTIC_CARDS);
+        this.ToyBoxHash.add(ItemID.SILVER_PARTYHAT);
+        this.ToyBoxHash.add(ItemID.GIANT_BRONZE_DAGGER);
+        this.ToyBoxHash.add(ItemID.EASTFLOOR_SPADE);
+        this.ToyBoxHash.add(ItemID.NEST_HAT);
+        this.ToyBoxHash.add(ItemID.LOVE_CROSSBOW);
+        //TODO: POETS JACKET
+        this.ToyBoxHash.add(ItemID.RAINBOW_JUMPER);
+        this.ToyBoxHash.add(ItemID.COBWEB_CAPE);
+        this.ToyBoxHash.add(ItemID.SPIDER_HAT);
+        this.ToyBoxHash.add(ItemID.ICY_JUMPER);
+        this.ToyBoxHash.add(ItemID.SNOWGLOBE_HELMET);
+        this.ToyBoxHash.add(ItemID.BOOK_OF_EGG);
+        this.ToyBoxHash.add(ItemID.EGG_PRIEST_ROBE_TOP);
+        this.ToyBoxHash.add(ItemID.EGG_PRIEST_ROBE);
+        this.ToyBoxHash.add(ItemID.EGG_PRIEST_MITRE);
+        this.ToyBoxHash.add(ItemID.EGG_PRIEST_NECKLACE);
+        this.ToyBoxHash.add(ItemID.RAINBOW_CAPE);
+        this.ToyBoxHash.add(ItemID.RAINBOW_CROWN_SHIRT);
+
 
     }
 
