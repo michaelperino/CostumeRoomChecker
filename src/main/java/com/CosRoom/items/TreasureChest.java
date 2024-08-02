@@ -98,12 +98,15 @@ public class TreasureChest {
         this.TreasureChestHash.add(ItemID.CAPE_OF_SKULLS);
         this.TreasureChestHash.add(ItemID.WILLOW_COMP_BOW);
         this.TreasureChestHash.add(ItemID.BLUE_ELEGANT_SHIRT);
+        this.TreasureChestHash.add(ItemID.BLUE_ELEGANT_BLOUSE);
         this.TreasureChestHash.add(ItemID.BLUE_ELEGANT_SKIRT);
         this.TreasureChestHash.add(ItemID.BLUE_ELEGANT_LEGS);
         this.TreasureChestHash.add(ItemID.GREEN_ELEGANT_SHIRT);
+        this.TreasureChestHash.add(ItemID.GREEN_ELEGANT_BLOUSE);
         this.TreasureChestHash.add(ItemID.GREEN_ELEGANT_SKIRT);
         this.TreasureChestHash.add(ItemID.GREEN_ELEGANT_LEGS);
         this.TreasureChestHash.add(ItemID.RED_ELEGANT_SHIRT);
+        this.TreasureChestHash.add(ItemID.RED_ELEGANT_BLOUSE);
         this.TreasureChestHash.add(ItemID.RED_ELEGANT_SKIRT);
         this.TreasureChestHash.add(ItemID.RED_ELEGANT_LEGS);
         this.TreasureChestHash.add(ItemID.FLARED_TROUSERS);
@@ -446,6 +449,7 @@ public class TreasureChest {
         this.TreasureChestHash.add(ItemID.DEERSTALKER);
         this.TreasureChestHash.add(ItemID.DRAGON_FULL_HELM_G);
         this.TreasureChestHash.add(ItemID.DRAGON_PLATEBODY_G);
+        this.TreasureChestHash.add(ItemID.DRAGON_CHAINBODY_G);
         this.TreasureChestHash.add(ItemID.DRAGON_PLATESKIRT_G);
         this.TreasureChestHash.add(ItemID.DRAGON_PLATELEGS_G);
         this.TreasureChestHash.add(ItemID.DRAGON_KITESHIELD_G);
@@ -521,6 +525,8 @@ public class TreasureChest {
         this.TreasureChestHash.add(ItemID.ANKOU_SOCKS);
         this.TreasureChestHash.add(ItemID.BOWL_WIG);
         this.TreasureChestHash.add(ItemID.BUCKET_HELM_G);
+        this.TreasureChestHash.add(ItemID.DOUBLE_EYE_PATCH);
+        this.TreasureChestHash.add(ItemID.RIGHT_EYE_PATCH);
         this.TreasureChestHash.add(ItemID.LEFT_EYE_PATCH);
         this.TreasureChestHash.add(ItemID.FANCY_TIARA);
         this.TreasureChestHash.add(ItemID.HALF_MOON_SPECTACLES);
@@ -552,6 +558,7 @@ public class TreasureChest {
         this.TreasureChestHash.add(ItemID.SAMURAI_GLOVES);
         this.TreasureChestHash.add(ItemID.SAMURAI_BOOTS);
         this.TreasureChestHash.add(ItemID.SCROLL_SACK);
+
 
     }
 }

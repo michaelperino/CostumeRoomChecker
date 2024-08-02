@@ -1,6 +1,7 @@
 package com.CosRoom;
 
 import com.CosRoom.items.*;
+import net.runelite.api.widgets.InterfaceID;
 import net.runelite.api.widgets.WidgetItem;
 import net.runelite.client.game.ItemManager;
 import net.runelite.client.ui.overlay.WidgetItemOverlay;
@@ -33,6 +34,10 @@ public class CostumeHighlightOverlay extends WidgetItemOverlay {
         this.magicWardrobe = new MagicWardrobe();
         this.treasureChest = new TreasureChest();
         showOnBank();
+        if(config.outsideBankEnabled()) {
+            showOnInterfaces(InterfaceID.SHOP, InterfaceID.SHOP_INVENTORY);
+            showOnInventory();
+        }
     }
 
     @Override

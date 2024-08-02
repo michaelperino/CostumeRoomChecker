@@ -190,7 +190,7 @@ public class ToyBox {
         this.ToyBoxHash.add(ItemID.EASTFLOOR_SPADE);
         this.ToyBoxHash.add(ItemID.NEST_HAT);
         this.ToyBoxHash.add(ItemID.LOVE_CROSSBOW);
-        //TODO: POETS JACKET
+        this.ToyBoxHash.add(ItemID.POETS_JACKET);
         this.ToyBoxHash.add(ItemID.RAINBOW_JUMPER);
         this.ToyBoxHash.add(ItemID.COBWEB_CAPE);
         this.ToyBoxHash.add(ItemID.SPIDER_HAT);

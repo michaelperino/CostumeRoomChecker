@@ -22,10 +22,10 @@ public class FancyDressBox {
         this.FancyDressHash.add(ItemID.CAMO_TOP);
         this.FancyDressHash.add(ItemID.CAMO_BOTTOMS);
         this.FancyDressHash.add(ItemID.FROG_MASK);
-        this.FancyDressHash.add(ItemID.ROYAL_FROG_TUNIC);
-        this.FancyDressHash.add(ItemID.ROYAL_FROG_LEGGINGS);
         this.FancyDressHash.add(ItemID.ROYAL_FROG_BLOUSE);
+        this.FancyDressHash.add(ItemID.ROYAL_FROG_TUNIC);
         this.FancyDressHash.add(ItemID.ROYAL_FROG_SKIRT);
+        this.FancyDressHash.add(ItemID.ROYAL_FROG_LEGGINGS);
         this.FancyDressHash.add(ItemID.LEDERHOSEN_HAT);
         this.FancyDressHash.add(ItemID.LEDERHOSEN_TOP);
         this.FancyDressHash.add(ItemID.LEDERHOSEN_SHORTS);

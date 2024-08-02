@@ -19,6 +19,13 @@ public interface CosRoomConfig extends Config
 	}
 
 	@ConfigItem(
+			keyName = "OutsideBank",
+			name = "Show Outside Bank",
+			description = "Choose if you wish to highlight items when not in your bank tab. This includes your inventory and certain shops."
+	)
+	default boolean outsideBankEnabled() { return false; }
+
+	@ConfigItem(
 			keyName = "toyBoxEnable",
 			name = "Enable Toy Box",
 			description = "Choose if you wish to highlight the items that can be inserted into a toy box."
@@ -62,7 +69,7 @@ public interface CosRoomConfig extends Config
 	@ConfigItem(
 			keyName = "TreasureChest",
 			name = "Enable Treasure Chest",
-			description = "Choose if you wish to highlight the items that can be inserted into a treasure chest."
+			description = "APPLIES ON RESTART. Choose if you wish to highlight the items that can be inserted into a treasure chest."
 	)
 	default boolean TreasureChestEnabled() { return true; }
 }

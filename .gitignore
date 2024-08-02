@@ -7,3 +7,5 @@ build
 nbactions.xml
 nb-configuration.xml
 nbproject/
+py_data_grab/venv
+py_data_grab/py_data_grab.iml
