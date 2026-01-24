@@ -558,6 +558,30 @@ public class TreasureChest {
         this.TreasureChestHash.add(ItemID.SAMURAI_GLOVES);
         this.TreasureChestHash.add(ItemID.SAMURAI_BOOTS);
         this.TreasureChestHash.add(ItemID.SCROLL_SACK);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_AMULET);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_AXE);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_BOW);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_CLOAK);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_DRUIDIC_CLOAK);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_DRUIDIC_ROBE_BOTTOMS);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_DRUIDIC_ROBE_TOP);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_DRUIDIC_STAFF);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_FELLING_AXE);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_FULL_HELMET);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_KITESHIELD);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_LONGSWORD);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_MAGE_HAT);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_PICKAXE);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_PLATEBODY);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_PLATELEGS);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_RANGE_COIF);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_RANGE_LEGS);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_RANGE_TOP);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_ROBE);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_ROBE_TOP);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_VAMBRACES);
+        this.TreasureChestHash.add(ItemID._3RD_AGE_WAND);
+
 
 
     }

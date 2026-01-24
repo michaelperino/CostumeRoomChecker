@@ -371,6 +371,46 @@ public class MagicWardrobe {
         this.MagicWardrobeHash.add(ItemID.GRACEFUL_GLOVES_27458);
         this.MagicWardrobeHash.add(ItemID.GRACEFUL_BOOTS_27459);
         this.MagicWardrobeHash.add(ItemID.GRACEFUL_BOOTS_27461);
+        this.MagicWardrobeHash.add(ItemID.AMYS_SAW_OFFHAND);
+        this.MagicWardrobeHash.add(ItemID.BRUMA_TORCH_OFFHAND);
+        this.MagicWardrobeHash.add(ItemID.CRYSTAL_GLIDERS_HAT);
+        this.MagicWardrobeHash.add(ItemID.CRYSTAL_GLIDERS_JACKET);
+        this.MagicWardrobeHash.add(ItemID.CRYSTAL_GLIDERS_SHOES);
+        this.MagicWardrobeHash.add(ItemID.CRYSTAL_GLIDERS_TROUSERS);
+        this.MagicWardrobeHash.add(ItemID.ECHO_VIRTUS_MASK);
+        this.MagicWardrobeHash.add(ItemID.ECHO_VIRTUS_ROBE_BOTTOM);
+        this.MagicWardrobeHash.add(ItemID.ECHO_VIRTUS_ROBE_TOP);
+        this.MagicWardrobeHash.add(ItemID.EMISSARY_HOOD);
+        this.MagicWardrobeHash.add(ItemID.EMISSARY_ROBE_BOTTOM);
+        this.MagicWardrobeHash.add(ItemID.EMISSARY_ROBE_TOP);
+        this.MagicWardrobeHash.add(ItemID.EMISSARY_SANDALS);
+        this.MagicWardrobeHash.add(ItemID.FLETCHING_KNIFE);
+        this.MagicWardrobeHash.add(ItemID.GREENMAN_MASK);
+        this.MagicWardrobeHash.add(ItemID.IMCANDO_HAMMER_OFFHAND);
+        this.MagicWardrobeHash.add(ItemID.ORANGE_31117);
+        this.MagicWardrobeHash.add(ItemID.STORM_CRUISERS_COAT);
+        this.MagicWardrobeHash.add(ItemID.STORM_CRUISERS_HAT);
+        this.MagicWardrobeHash.add(ItemID.STORM_CRUISERS_SHOES);
+        this.MagicWardrobeHash.add(ItemID.STORM_CRUISERS_TROUSERS);
+        this.MagicWardrobeHash.add(ItemID.SWAMP_CRUISERS_HAT);
+        this.MagicWardrobeHash.add(ItemID.SWAMP_CRUISERS_JACKET);
+        this.MagicWardrobeHash.add(ItemID.SWAMP_CRUISERS_SHOES);
+        this.MagicWardrobeHash.add(ItemID.SWAMP_CRUISERS_TROUSERS);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_RECOLOUR);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_CRAFTING_KIT);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_HOOD_30045);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_HOOD_30047);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_CAPE_30048);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_CAPE_30050);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_TOP_30051);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_TOP_30053);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_LEGS_30054);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_LEGS_30056);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_GLOVES_30057);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_GLOVES_30059);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_BOOTS_30060);
+        this.MagicWardrobeHash.add(ItemID.GRACEFUL_BOOTS_30062);
+
 
 
 

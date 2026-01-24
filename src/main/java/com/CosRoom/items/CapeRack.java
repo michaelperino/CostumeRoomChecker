@@ -212,6 +212,38 @@ public class CapeRack {
         this.CapeRackHash.add(ItemID.TEAM48_CAPE);
         this.CapeRackHash.add(ItemID.TEAM49_CAPE);
         this.CapeRackHash.add(ItemID.TEAM50_CAPE);
+        this.CapeRackHash.add(ItemID.ACCUMULATOR_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.ACCUMULATOR_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.ARDOUGNE_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.ARDOUGNE_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.ASSEMBLER_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.ASSEMBLER_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.DIZANAS_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.DIZANAS_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.FIRE_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.FIRE_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.GUTHIX_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.GUTHIX_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.IMBUED_GUTHIX_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.IMBUED_GUTHIX_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.IMBUED_SARADOMIN_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.IMBUED_SARADOMIN_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.IMBUED_ZAMORAK_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.IMBUED_ZAMORAK_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.INFERNAL_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.INFERNAL_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.MASORI_ASSEMBLER_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.MASORI_ASSEMBLER_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.MYTHICAL_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.MYTHICAL_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.SAILING_CAPE);
+        this.CapeRackHash.add(ItemID.SAILING_CAPET);
+        this.CapeRackHash.add(ItemID.SAILING_HOOD);
+        this.CapeRackHash.add(ItemID.SARADOMIN_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.SARADOMIN_MAX_HOOD);
+        this.CapeRackHash.add(ItemID.ZAMORAK_MAX_CAPE);
+        this.CapeRackHash.add(ItemID.ZAMORAK_MAX_HOOD);
+
 
 
     }

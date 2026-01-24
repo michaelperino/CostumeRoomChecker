@@ -38,13 +38,13 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_HELM);
         this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_PLATEBODY);
         this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_PLATELEGS);
-        //this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_HELM);
-        //this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_PLATEBODY);
+        this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_HELM);
+        this.ArmorCaseHash.add(ItemID.ARDOUGNE_KNIGHT_PLATEBODY);
         this.ArmorCaseHash.add(ItemID.STEEL_PLATELEGS);
         this.ArmorCaseHash.add(ItemID.BOMBER_CAP);
         this.ArmorCaseHash.add(ItemID.BOMBER_JACKET);
         this.ArmorCaseHash.add(ItemID.CAP_AND_GOGGLES);
-        //this.ArmorCaseHash.add(ItemID.BOMBER_JACKET);
+        this.ArmorCaseHash.add(ItemID.BOMBER_JACKET);
         this.ArmorCaseHash.add(ItemID.HARD_HAT);
         this.ArmorCaseHash.add(ItemID.BUILDERS_SHIRT);
         this.ArmorCaseHash.add(ItemID.BUILDERS_TROUSERS);
@@ -99,10 +99,10 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.CORRUPTED_PLATEBODY);
         this.ArmorCaseHash.add(ItemID.CORRUPTED_PLATELEGS);
         this.ArmorCaseHash.add(ItemID.CORRUPTED_KITESHIELD);
-        //this.ArmorCaseHash.add(ItemID.CORRUPTED_HELM);
-        //this.ArmorCaseHash.add(ItemID.CORRUPTED_PLATEBODY);
+        this.ArmorCaseHash.add(ItemID.CORRUPTED_HELM);
+        this.ArmorCaseHash.add(ItemID.CORRUPTED_PLATEBODY);
         this.ArmorCaseHash.add(ItemID.CORRUPTED_PLATESKIRT);
-        //this.ArmorCaseHash.add(ItemID.CORRUPTED_KITESHIELD);
+        this.ArmorCaseHash.add(ItemID.CORRUPTED_KITESHIELD);
         this.ArmorCaseHash.add(ItemID.DEADMANS_CHEST_24189);
         this.ArmorCaseHash.add(ItemID.DEADMANS_LEGS_24190);
         this.ArmorCaseHash.add(ItemID.DEADMANS_CAPE_24191);
@@ -120,8 +120,8 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.FARMERS_BOOTS);
         this.ArmorCaseHash.add(ItemID.FARMERS_STRAWHAT_13647);
         this.ArmorCaseHash.add(ItemID.FARMERS_SHIRT);
-        //this.ArmorCaseHash.add(ItemID.FARMERS_BORO_TROUSERS);
-        //this.ArmorCaseHash.add(ItemID.FARMERS_BOOTS);
+        this.ArmorCaseHash.add(ItemID.FARMERS_BORO_TROUSERS);
+        this.ArmorCaseHash.add(ItemID.FARMERS_BOOTS);
         this.ArmorCaseHash.add(ItemID.FEDORA);
         this.ArmorCaseHash.add(ItemID.GIANT_STOPWATCH);
         this.ArmorCaseHash.add(ItemID.HAM_HOOD);
@@ -330,10 +330,10 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.VOID_KNIGHT_GLOVES);
         this.ArmorCaseHash.add(ItemID.ELITE_VOID_TOP_OR);
         this.ArmorCaseHash.add(ItemID.ELITE_VOID_ROBE_OR);
-        //this.ArmorCaseHash.add(ItemID.VOID_KNIGHT_GLOVES_OR);
+        this.ArmorCaseHash.add(ItemID.VOID_KNIGHT_GLOVES_OR);
         this.ArmorCaseHash.add(ItemID.ELITE_VOID_TOP);
         this.ArmorCaseHash.add(ItemID.ELITE_VOID_ROBE);
-        //this.ArmorCaseHash.add(ItemID.VOID_KNIGHT_GLOVES);
+        this.ArmorCaseHash.add(ItemID.VOID_KNIGHT_GLOVES);
         this.ArmorCaseHash.add(ItemID.VOID_MAGE_HELM);
         this.ArmorCaseHash.add(ItemID.VOID_MAGE_HELM_OR);
         this.ArmorCaseHash.add(ItemID.VOID_MELEE_HELM);
@@ -353,6 +353,7 @@ public class ArmorCase {
         this.ArmorCaseHash.add(ItemID.XERICIAN_HAT);
         this.ArmorCaseHash.add(ItemID.XERICIAN_TOP);
         this.ArmorCaseHash.add(ItemID.XERICIAN_ROBE);
+
 
     }
 }
